@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <br>
     <img src="https://media.tenor.com/_mYZWyrW3AUAAAAj/peach-goma-pc-night-keyboard-smashing.gif"  alt="cat typing on a keyboard" width="100"/>
 <div id="badges">
     <a href="https://www.linkedin.com/in/nejc-konji%C4%8Dek-6a6588222/">
